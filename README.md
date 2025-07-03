@@ -6,3 +6,7 @@ Built program is currently only provided for Windows.
 To run, simply unzip and launch the .exe file
 
 If you would like to have any features added or are experiencing any trouble, feel free to create a pull request or an issue
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/fc94b179-271a-438e-955f-1b862fe3c4d4)
+
