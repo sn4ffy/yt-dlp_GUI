@@ -16,7 +16,8 @@ Download the source code, install pyinstaller and run pyinstaller.exe --onefile 
 Wait for it to build. Then you'll have build and dist folders in the directory from where you ran the command. Open dist folder and create misc directory there, put ffmpeg(should be named exactly that) folder and logo.ico(should be named exactly that) there. Now the executable in the dist folder is fully functional! You can delete the build folder if you want
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/740f6cdf-28f4-4c4f-b451-6e135b40adeb)
+![image](https://github.com/user-attachments/assets/f9ef7a21-8df9-42fa-a114-95acaf2553df)
+
 
 ### If you have any problems or would like to have any fetures added
 If you would like to have any features added or are experiencing trouble, feel free to create a pull request or an issue. I will try to help you out
