@@ -19,6 +19,6 @@ Wait for it to build. Then you'll have build and dist folders in the directory f
 ![image](https://github.com/user-attachments/assets/f9ef7a21-8df9-42fa-a114-95acaf2553df)
 
 
-### If you have any problems or would like to have any fetures added
+### If you have any problems or would like to have any features added
 If you would like to have any features added or are experiencing trouble, feel free to create a pull request or an issue. I will try to help you out
 
